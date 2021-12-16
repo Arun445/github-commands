@@ -47,4 +47,14 @@ Gooder COmmits
 Gooder COmmits
 Gooder COmmits
 Gooder COmmits
+<<<<<<< HEAD
 Gooder COmmits
+<<<<<<< 1
+Gooder COmmits
+PULL REQUEST 1
+=======
+Gooder COmmits
+>>>>>>> master
+=======
+Gooder COmmits
+>>>>>>> bdf98d7d82ce67ce0b00778b694729d44602fb39
